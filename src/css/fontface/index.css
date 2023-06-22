@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "phasmo";
+    src: url(../../font/october\ crow.ttf);
+}
+@font-face {
+    font-family: "fpd";
+    src: url(../../font/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: "poppin";
+    src: url(../../font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "ds";
+    src: url(../../font/DancingScript-Regular.ttf);
+}
+@font-face {
+    font-family: "roboto";
+    src: url(../../font/Roboto-Regular.ttf);
+}
