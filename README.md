@@ -1,41 +1,51 @@
 # 🎮 Phasmophobia - Démo React TypeScript
 
-Ce projet est une **démo front-end** réalisée avec **React** et **TypeScript** dans le cadre de ma formation **Développeur Web et Web Mobile**. Il s'agit d'une présentation du jeu **Phasmophobia**, développée en **solo** afin de mettre en pratique mes compétences en développement web.
+Bienvenue dans cette démo front-end réalisée avec **React** et **TypeScript**, inspirée du jeu **Phasmophobia**.  
+Ce projet a été développé **en solo** dans le cadre de ma formation **Développeur Web et Web Mobile**.
+
+> ⚠️ Il ne s'agit pas d'une version jouable du jeu, mais d'une présentation visuelle de son univers.
 
 ---
 
-## 📌 À propos
+## 📌 Objectif du projet
 
-L'application met en avant l'univers du jeu Phasmophobia à travers une interface moderne et responsive. Elle a été conçue pour démontrer ma capacité à :
+Ce projet a été conçu pour :
 
-- Structurer un projet React avec TypeScript
-- Utiliser des composants réutilisables
-- Gérer l'état avec les hooks React
-- Appliquer des styles propres et cohérents
-- Organiser et présenter du contenu de manière dynamique
-
----
-
-## ⚙️ Technologies utilisées
-
-- **React 18**
-- **TypeScript**
-- **Vite** (ou Create React App selon ton choix)
-- **CSS Modules** / **SASS** (selon ton stack)
-- **React Router** *(si applicable)*
+- Présenter le jeu Phasmophobia via une interface moderne
+- Mettre en pratique mes compétences en React + TypeScript
+- Créer une application responsive et bien structurée
+- Utiliser des composants réutilisables et des hooks
 
 ---
 
-## 🚀 Lancer le projet
+## 🛠️ Technologies utilisées
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/) *(si utilisé)*
+- CSS / SCSS
+
+---
+
+## 🚀 Lancer le projet en local
 
 ### Prérequis
 
 - Node.js (v18 ou plus recommandé)
-- npm ou yarn
+- npm (ou yarn)
 
-### Installation
+### Étapes
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
-cd nom-du-repo
+# Cloner le dépôt
+git clone https://github.com/Veltako/Phasmophobia-Demo-React-TypeScript.git
+
+# Accéder au dossier
+cd Phasmophobia-Demo-React-TypeScript
+
+# Installer les dépendances
 npm install
+
+# Démarrer le serveur de développement
+npm run dev
