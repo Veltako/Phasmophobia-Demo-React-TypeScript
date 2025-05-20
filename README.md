@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# 🎮 Phasmophobia - Démo React TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet est une **démo front-end** réalisée avec **React** et **TypeScript** dans le cadre de ma formation **Développeur Web et Web Mobile**. Il s'agit d'une présentation du jeu **Phasmophobia**, développée en **solo** afin de mettre en pratique mes compétences en développement web.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 À propos
 
-### `npm start`
+L'application met en avant l'univers du jeu Phasmophobia à travers une interface moderne et responsive. Elle a été conçue pour démontrer ma capacité à :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Structurer un projet React avec TypeScript
+- Utiliser des composants réutilisables
+- Gérer l'état avec les hooks React
+- Appliquer des styles propres et cohérents
+- Organiser et présenter du contenu de manière dynamique
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## ⚙️ Technologies utilisées
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React 18**
+- **TypeScript**
+- **Vite** (ou Create React App selon ton choix)
+- **CSS Modules** / **SASS** (selon ton stack)
+- **React Router** *(si applicable)*
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Lancer le projet
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prérequis
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (v18 ou plus recommandé)
+- npm ou yarn
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/ton-utilisateur/nom-du-repo.git
+cd nom-du-repo
+npm install
