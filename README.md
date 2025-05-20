@@ -1,20 +1,19 @@
 # 🎮 Phasmophobia - Démo React TypeScript
 
-Bienvenue dans cette démo front-end réalisée avec **React** et **TypeScript**, inspirée du jeu **Phasmophobia**.  
-Ce projet a été développé **en solo** dans le cadre de ma formation **Développeur Web et Web Mobile**.
+Bienvenue dans cette **démo front-end** réalisée avec **React** et **TypeScript**, inspirée du jeu **Phasmophobia**.  
+Ce projet a été développé **en solo**, **en 1 mois**, **sans connaissances préalables en React ni en Node.js**, dans le cadre de ma formation **Développeur Web et Web Mobile**.
 
-> ⚠️ Il ne s'agit pas d'une version jouable du jeu, mais d'une présentation visuelle de son univers.
+> ⚠️ Le site est **en cours de développement** et n'est **pas encore terminé**.  
+> Il ne s'agit pas d'une version jouable du jeu, mais d'une **présentation visuelle** de son univers.
 
 ---
 
 ## 📌 Objectif du projet
 
-Ce projet a été conçu pour :
-
-- Présenter le jeu Phasmophobia via une interface moderne
-- Mettre en pratique mes compétences en React + TypeScript
-- Créer une application responsive et bien structurée
-- Utiliser des composants réutilisables et des hooks
+- Découvrir et apprendre React & TypeScript par la pratique
+- Structurer une application front-end moderne
+- Mettre en place une navigation fluide et un design responsive
+- Présenter l'univers du jeu Phasmophobia à travers une interface soignée
 
 ---
 
@@ -23,7 +22,6 @@ Ce projet a été conçu pour :
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
-- [React Router](https://reactrouter.com/) *(si utilisé)*
 - CSS / SCSS
 
 ---
@@ -35,7 +33,7 @@ Ce projet a été conçu pour :
 - Node.js (v18 ou plus recommandé)
 - npm (ou yarn)
 
-### Étapes
+### Installation
 
 ```bash
 # Cloner le dépôt
@@ -47,5 +45,5 @@ cd Phasmophobia-Demo-React-TypeScript
 # Installer les dépendances
 npm install
 
-# Démarrer le serveur de développement
+# Lancer le serveur de développement
 npm run dev
