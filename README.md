@@ -1,7 +1,7 @@
 # 🎮 Phasmophobia - Démo React TypeScript
 
 Bienvenue dans cette **démo front-end** réalisée avec **React** et **TypeScript**, inspirée du jeu **Phasmophobia**.  
-Ce projet a été développé **en solo**, **en 1 mois**, **sans connaissances préalables en React ni en Node.js**, dans le cadre de ma formation **Développeur Web et Web Mobile**.
+Ce projet a été développé **en solo**,en parallèle du [Backend Strapi API](https://github.com/Veltako/API-Strapi-Phasmophobia-Demo), **en 1 mois**, **sans connaissances préalables en React ni en Node.js**, dans le cadre de ma formation **Développeur Web et Web Mobile**.
 
 > ⚠️ Le site est **en cours de développement** et n'est **pas encore terminé**.  
 > Il ne s'agit pas d'une version jouable du jeu, mais d'une **présentation visuelle** de son univers.
